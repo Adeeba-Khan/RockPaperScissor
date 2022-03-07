@@ -1,0 +1,50 @@
+body{
+    background-color:#00B4D8; 
+    text-align: center;
+    margin: auto;
+    width: 70%;
+    color: #ffffff;
+}
+
+h1{
+    Margin: 1em 0 0.5em 0;
+	color: WHITE;
+	font-weight: normal;
+    font-family: 'Lobster', cursive;
+	font-size: 36px;
+	line-height: 42px;
+	text-transform: uppercase;
+	text-shadow: 0 2px white, 0 3px #777;
+    padding-top: 0.2rem;
+    font-size : 3rem;
+}
+.container
+{
+    margin: auto;
+}
+.rockPaperScissor
+{
+    padding: 0rem 2rem;
+    text-align: center;
+    display: inline-block;
+}   
+p{
+    font-size: 2rem;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 4rem;
+
+
+}
+.img1{
+    width: 10rem;
+    height: 10rem;
+    border: solid 1px;
+    border-radius: 50%;
+ background-color:#f9e45b;
+    
+}
+#footer
+{
+    margin: auto;
+    
+}
